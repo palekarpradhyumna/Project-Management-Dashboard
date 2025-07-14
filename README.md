@@ -45,11 +45,6 @@ Project-Management-Dashboard/
 │   └── dashboard_view.png   # Screenshot of the dashboard
 └── README.md                # Project documentation
 ```
-
-## 📸 Preview
-
-![Dashboard Screenshot](Project Dashboard.pdf)
-
 ## 💡 Use Case
 
 This dashboard is ideal for:
