@@ -48,7 +48,7 @@ Project-Management-Dashboard/
 
 ## 📸 Preview
 
-![Dashboard Screenshot](screenshots/dashboard_view.png)
+![Dashboard Screenshot](Project Dashboard.pdf)
 
 ## 💡 Use Case
 
