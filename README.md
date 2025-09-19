@@ -62,4 +62,4 @@ This dashboard is ideal for:
 ## 📞 Contact
 
 Made by [Pradhyumna Palekar](https://github.com/palekarpradhyumna)  
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/pradhyumna-palekar/](https://www.linkedin.com/in/pradhyumna-palekar-0bb588229/)) or raise an issue in this repo.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pradhyumna-palekar-0bb588229/) 
