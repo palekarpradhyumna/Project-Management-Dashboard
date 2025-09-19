@@ -41,8 +41,8 @@ Project-Management-Dashboard/
 ├── Dashboard.twbx           # Tableau dashboard file
 ├── data/
 │   └── project_data.csv     # Sample dataset for demo
-├── screenshots/
-│   └── dashboard_view.png   # Screenshot of the dashboard
+├── screenshots/             # Screenshot of the dashboard
+│ 
 └── README.md                # Project documentation
 ```
 ## 💡 Use Case
@@ -62,4 +62,4 @@ This dashboard is ideal for:
 ## 📞 Contact
 
 Made by [Pradhyumna Palekar](https://github.com/palekarpradhyumna)  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pradhyumna-palekar/) or raise an issue in this repo.
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/pradhyumna-palekar/](https://www.linkedin.com/in/pradhyumna-palekar-0bb588229/)) or raise an issue in this repo.
